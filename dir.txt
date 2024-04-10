@@ -1,0 +1,15 @@
+    chatbot/   
+        views.py  
+    manage.py
+    myproject/  
+        settings.py
+        urls.py
+        wsgi.py
+    templates/
+        chatbot/  
+            index.html
+        login.html
+        registration.html
+    static/  
+        css/
+        js/
