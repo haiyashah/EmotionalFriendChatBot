@@ -1,4 +1,4 @@
-Sample Images of the webpage.
+Images on the webpage.
 Try giving prompts like, I am having a great day, I am having a bad day as I failed my exam, etc.
 This bot will empathise with you and make you feel better.
 ![image](https://github.com/haiyashah/TellMeAboutYourDay/assets/95308896/33e8c8c4-ec3c-4703-ac17-7133777aff30)
