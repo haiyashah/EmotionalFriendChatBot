@@ -9,14 +9,10 @@ model = load_model('model.h5')
 import json
 import random
 
-
-
-
 from transformers import pipeline, AutoTokenizer, AutoModelForSeq2SeqLM
 import spacy
 from spacy.language import Language
 from spacy_langdetect import LanguageDetector
-
 
 # translator pipeline for english to swahili translations
 eng_swa_model_checkpoint = "Helsinki-NLP/opus-mt-en-swc"
@@ -57,10 +53,6 @@ nlp = spacy.load("en_core_web_sm")
 Language.factory("language_detector", func=get_lang_detector)
 
 nlp.add_pipe('language_detector', last=True)
-
-
-
-
 
 intents = json.loads(open('intents.json').read())
 words = pickle.load(open('texts.pkl','rb'))
@@ -122,7 +114,6 @@ def chatbot_response(msg):
 
     return chatbotResponse
 
-    
 from flask import Flask, render_template, request
 app = Flask(__name__)
 app.static_folder = 'static'
@@ -154,9 +145,6 @@ def get_bot_response():
         chatbot_response_text = translate_text_eng_swa(chatbot_response_text)
 
     return chatbot_response_text
-
-
-
 
 if __name__ == "__main__":
     app.run()
