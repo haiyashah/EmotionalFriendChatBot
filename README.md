@@ -1,4 +1,4 @@
-Look of the webpage.
+This is the look of the webpage.
 
 Try giving prompts like, I am having a great day, I am having a bad day as I failed my exam, etc.
 This bot will empathise with you and make you feel better.
