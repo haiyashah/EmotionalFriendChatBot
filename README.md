@@ -1,6 +1,7 @@
 This is the look of the webpage.
 
-Sample prompt 1: I am having a great day, 
+Sample prompt 1: I am having a great day
+
 Sample prompt 2: I am having a bad day as I failed my exam.
 
 This bot will empathise with you and make you feel better.
