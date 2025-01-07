@@ -5,8 +5,14 @@ Sample prompt 1: I am having a great day
 Sample prompt 2: I am having a bad day as I failed my exam.
 
 This bot will empathise with you and make you feel better.
+
+Register page:
 ![image](https://github.com/haiyashah/TellMeAboutYourDay/assets/95308896/33e8c8c4-ec3c-4703-ac17-7133777aff30)
+
+Login page:
 ![image](https://github.com/haiyashah/TellMeAboutYourDay/assets/95308896/ea36938d-0d49-4f50-8900-1c27faa5dbe0)
+
+
 ![image](https://github.com/haiyashah/TellMeAboutYourDay/assets/95308896/d30b4e37-7f53-4e8c-8658-78ee0e20e5f0)
 ![image](https://github.com/haiyashah/TellMeAboutYourDay/assets/95308896/9702bda1-dd61-4335-8640-11646efc5515)
 
